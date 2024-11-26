@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: TelephoneDirectory
+  data:
+    mongodb:
+      authentication-database: admin
+      username: user
+      password: password
+      port: 27017
+      uri: ${SPRING_DATA_MONGODB_URI}

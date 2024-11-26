@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/rtish/IdeaProjects/TelephoneDirectory/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/rtish/IdeaProjects/TelephoneDirectory/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/rtish/IdeaProjects/TelephoneDirectory/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\rtish\\IdeaProjects\\TelephoneDirectory\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\rtish\\IdeaProjects\\TelephoneDirectory\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/rtish/IdeaProjects/TelephoneDirectory/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/rtish/IdeaProjects/TelephoneDirectory/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/rtish/IdeaProjects/TelephoneDirectory/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\rtish\\IdeaProjects\\TelephoneDirectory\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
